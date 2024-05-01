@@ -1,0 +1,15 @@
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.csproj.AssemblyReference.cache
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.AssemblyInfoInputs.cache
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.AssemblyInfo.cs
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.csproj.CoreCompileInputs.cache
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/bin/Debug/net7.0/OOP Assignment 2
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/bin/Debug/net7.0/OOP Assignment 2.deps.json
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/bin/Debug/net7.0/OOP Assignment 2.runtimeconfig.json
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/bin/Debug/net7.0/OOP Assignment 2.dll
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/bin/Debug/net7.0/OOP Assignment 2.pdb
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.dll
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/refint/OOP Assignment 2.dll
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.pdb
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/OOP Assignment 2.genruntimeconfig.cache
+/Users/tavisstringer/Projects/OOP 2/OOP Assignment 2/OOP Assignment 2/obj/Debug/net7.0/ref/OOP Assignment 2.dll
